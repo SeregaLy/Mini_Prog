@@ -1,7 +1,6 @@
 import random
 import tkinter
-
-from fontTools.subset import timer
+import timer
 
 
 def speed_test():
